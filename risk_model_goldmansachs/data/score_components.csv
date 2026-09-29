@@ -1,0 +1,21 @@
+persona_id,persona_name,factor,weight,factor_score,weighted_points
+1,Persona 1,Annual income,0.2,93.33,18.67
+1,Persona 1,Credit score,0.25,83.64,20.91
+1,Persona 1,Debt (inverted),0.2,50.0,10.0
+1,Persona 1,Late payments (inverted),0.1,100.0,10.0
+1,Persona 1,Savings,0.25,90.0,22.5
+2,Persona 2,Annual income,0.2,60.0,12.0
+2,Persona 2,Credit score,0.25,72.73,18.18
+2,Persona 2,Debt (inverted),0.2,66.67,13.33
+2,Persona 2,Late payments (inverted),0.1,80.0,8.0
+2,Persona 2,Savings,0.25,24.0,6.0
+3,Persona 3,Annual income,0.2,33.33,6.67
+3,Persona 3,Credit score,0.25,65.45,16.36
+3,Persona 3,Debt (inverted),0.2,70.0,14.0
+3,Persona 3,Late payments (inverted),0.1,60.0,6.0
+3,Persona 3,Savings,0.25,4.0,1.0
+4,Persona 4,Annual income,0.2,50.0,10.0
+4,Persona 4,Credit score,0.25,76.36,19.09
+4,Persona 4,Debt (inverted),0.2,33.33,6.67
+4,Persona 4,Late payments (inverted),0.1,80.0,8.0
+4,Persona 4,Savings,0.25,16.0,4.0

@@ -1,0 +1,2 @@
+num_risks,total_expected_annual_loss,total_mitigation_cost,net_exposure,high_risk_count,medium_risk_count,low_risk_count
+5,362000.0,148000.0,214000.0,0,1,4

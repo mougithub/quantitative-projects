@@ -1,0 +1,6 @@
+risk_id,risk_name,probability,impact_usd,expected_annual_loss,risk_score,risk_category,mitigation_strategy,mitigation_cost_usd,net_exposure_before_effectiveness,mitigation_cost_pct_of_eal,rationale,rank_by_exposure
+1,Hurricane / storm damage,0.15,900000,135000.0,13.5,Medium Risk,Carry windstorm insurance rider + annual roof/drainage inspection,45000,90000.0,33.3,"Florida coastal exposure; low-frequency, very high-severity event",1
+3,Occupancy drop from new competing complexes,0.35,250000,87500.0,8.75,Low Risk,Tenant retention incentives + accelerate amenity upgrades,60000,27500.0,68.6,New supply is visible in the pipeline; direct hit to rental income,2
+4,Seasonal occupancy swings,0.6,90000,54000.0,5.4,Low Risk,Flexible/short-term lease mix to smooth off-season vacancy,15000,39000.0,27.8,Near-certain annually in FL rental markets; impact is comparatively small,3
+2,Property tax increase,0.4,120000,48000.0,4.8,Low Risk,Annual reassessment review with a property tax attorney,8000,40000.0,16.7,Moderately likely given rising FL property valuations; moderate impact,4
+5,Major unplanned repair (non-storm),0.25,150000,37500.0,3.75,Low Risk,Capital reserve fund funded from NOI + preventive maintenance plan,20000,17500.0,53.3,Aging-building risk; reserve funding is cheaper than reactive repair,5

@@ -1,0 +1,5 @@
+persona_id,persona_name,annual_income,credit_score,debt,savings,late_payments,n_credit,n_income,n_debt_raw,n_savings,n_late_raw,score_original,category_original,score_corrected,category_corrected,score_change,points_to_boundary,rank_safest_first
+1,Persona 1,280000,760,150000,450000,0,83.64,93.33,50.0,90.0,0.0,72.08,Low Risk,82.08,Low Risk,10.0,16.08,1
+2,Persona 2,180000,700,100000,120000,1,72.73,60.0,33.33,24.0,20.0,44.85,Medium Risk,57.52,Medium Risk,12.67,8.48,2
+3,Persona 3,100000,660,90000,20000,2,65.45,33.33,30.0,4.0,40.0,34.03,Medium Risk,44.03,Medium Risk,10.0,11.03,4
+4,Persona 4,150000,720,200000,80000,1,76.36,50.0,66.67,16.0,20.0,48.42,Medium Risk,47.76,Medium Risk,-0.67,14.76,3
